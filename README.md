@@ -1,6 +1,9 @@
+# 🦁 **MUFASA AI** 
+### *The King of AI Tool Discovery*
 
-<h1 align="center">🦁 Mufasa_AI</h1>
 <div align="center">
+
+![Mufasa AI Demo](1111111.gif)
 
 ```ascii
     ╔══════════════════════════════════════════════════════════╗
@@ -177,6 +180,30 @@
 
 ---
 
+## 🎮 **INTERFACE SHOWCASE**
+
+<div align="center">
+
+### 🌟 **3D Glassmorphic Experience in Action**
+
+| **Main Dashboard** | **Tool Search** |
+|:------------------:|:-------------------:|
+| ![Main Interface](Screenshot%202025-05-29%20205942.png) | ![Categories View](Screenshot%202025-05-29%20205959.png) |
+
+| **Explore** | **Trending** |
+|:------------------:|:-----------------:|
+| ![Tool Cards](Screenshot%202025-05-29%20210004.png) | ![3D Interface](Screenshot%202025-05-29%20210010.png) |
+
+| **Submit AI Tool** |
+|:----------------------:|
+| ![Tool Details](Screenshot%202025-05-29%20210018.png) |
+
+*Experience the future of AI tool discovery with our immersive 3D glassmorphic interface*
+
+</div>
+
+---
+
 ## 🎮 **INTERACTIVE FEATURES**
 
 ### 🔮 **3D Glassmorphic Interface**
@@ -310,19 +337,6 @@ We believe that artificial intelligence should be **accessible**, **discoverable
 - **Memory Usage**: Optimized for mobile
 - **SEO Score**: 95+ Google Lighthouse
 - **Accessibility**: WCAG 2.1 AA compliant
-
----
-
-## 📞 **CONNECT WITH THE PRIDE**
-
-<div align="center">
-
-[![Website](https://img.shields.io/badge/🌐_Website-mufasa--ai.com-blue?style=for-the-badge)](https://mufasa-ai.com)
-[![Twitter](https://img.shields.io/badge/🐦_Twitter-@MufasaAI-1da1f2?style=for-the-badge)](https://twitter.com/MufasaAI)
-[![Discord](https://img.shields.io/badge/💬_Discord-Join_Pride-7289da?style=for-the-badge)](https://discord.gg/mufasa-ai)
-[![GitHub](https://img.shields.io/badge/⭐_GitHub-Star_Repo-black?style=for-the-badge)](https://github.com/yourusername/mufasa-ai)
-
-</div>
 
 ---
 
